@@ -7,7 +7,7 @@ Author: Christian González-Martel
 tags: [example1, example2]
 ---
 
-# Creating a blog using jekyll.
+## Creating a blog using jekyll.
 ---
 
 As I told in the presentation post, when I started to use R I founded that in each project I did, I had problems developing it and I needed to search solutions to these problems. For this reason I decided to create a blog. To have a site to put all the problems I founded and the steps I followed to solve them. So, I thought that it would be appropiated tell how my first expirience creating a blog was.
