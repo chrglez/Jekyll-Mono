@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  Creating a blog in Github
-date: "2016-12-15 13:23:15"
-Author: Christian González-Martel
+author: Christian González-Martel
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
@@ -17,7 +16,7 @@ My fisrt attempt was creating a blog in Wordpress. So, I started to search a pac
 
 And I wanted to be *a cool hacker*.
 
-# Jekyll
+### Jekyll
 
 **Jekyll** is a static site generator.
 
@@ -29,7 +28,7 @@ As they tell in their [site](http://jekyllrb.com/):
 
 You have two options to bulid a blog with jekyll. Install it locally or use Github as a host for your blog. In this post I will explain this second option because it was my first choice when I decided to create an attemp of blog and because I thought it would be easier (and certainly it is but only a bit that the first one).
 
-# Steps to create a blog in Github
+### Steps to create a blog in Github
 
 Create a blog using jekyll is not very complicated. It takes only 10 minutes and it is free. We can use GitHub to host our blog and as they use the engine jekyll to create their sites, why do not we use the same engine to generate our blog? 
 
@@ -52,23 +51,3 @@ If everything is ok you have configured your blog.
 
 ### Upload our works in R
 
-
-
-
-
-
-## Creating a blog with jekyll and R
-If you want hat R generate the files for blogging you have to have jekyll server in your computer. [Definiciónd ejekyll. enlace a la página] The problems is that jekyll do not have support for windows. I founded this [page](http://jekyll-windows.juthilo.com/) made by [@juthilo](https://twitter.com/juthilo), where he explains how to install jekyll in a computer with windows. 
-
-I summarize the steps I did:
-1. Install Ruby
-    1. blablabla
-2. Ya seguiré otro día
-
-
-
-{% highlight r %}
-plot(1:10)
-{% endhighlight %}
-
-![plot of chunk unnamed-chunk-1](/knitr-jekyll/figure/source/my-second-blog-post/2016-11-27-my-second-blog-post/unnamed-chunk-1-1.png)
