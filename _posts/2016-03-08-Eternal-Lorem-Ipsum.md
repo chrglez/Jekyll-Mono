@@ -23,3 +23,28 @@ As they tell in their [site](http://jekyllrb.com/):
 
 <img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll's Octocat mascot" width="256">
 
+You have two options to bulid a blog with jekyll. Install it locally or use Github as a host for your blog. In this post I will explain this second option because it was my first choice when I decided to create an attemp of blog and because I thought it would be easier (and certainly it is but only a bit that the first one).
+
+### Steps to create a blog in Github
+
+Create a blog using jekyll is not very complicated. It takes only 10 minutes and it is free. We can use GitHub to host our blog and as they use the engine jekyll to create their sites, why do not we use the same engine to generate our blog? 
+
+* Of course, you have to have a Github account
+* Fork one of the hundreds jekyll templates in Github. You have more to choose in [jekyllthemes.org](http://jekyllthemes.org/) and this one is a sample of the other sites you can find on internet with jekyll's templates.
+* Click on the settings button and change the name of the repository. The url of your blog will be *your-nick-name/github.io/* **name-of-repository**. 
+* Using the edition panel of Github edit the *_config.yml* file. Within you can change the name of the blog, the description and many other things the creator of the proyect thinks is necessary to configure the blog.
+* If the *markdown* setting is different of *kramdown* you have to change it, and *highlighter* by *rougue*.
+* Then click on *commit changes* button.
+
+If everything is ok you have configured your blog.
+
+### Publishing posts
+
+* Go to *_post* folder
+* Edit a existing file or create a new one. The file's name must start with a date in the format *yyyy-mm-dd* and the title of the post separated by a hyphen "-".
+* The most importan part of the file is the heading. If you are creating a new file, you can copy and paste the heading of other post and modify the elements of the headings like *title:*.
+* Then write your post following the markdown language. Here you have a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to help you when you write in this language.
+* When you are happy with your post click on the *commit changes* buttom.
+
+### Upload our works in R
+
