@@ -40,11 +40,11 @@ If everything is ok you have configured your blog.
 
 ### Publishing posts
 
-* Go to *_post* folder
+* Go to **_post** folder
 * Edit a existing file or create a new one. The file's name must start with a date in the format *yyyy-mm-dd* and the title of the post separated by a hyphen "-".
-* The most importan part of the file is the heading. If you are creating a new file, you can copy and paste the heading of other post and modify the elements of the headings like *title:*.
+* The most importan part of the file is the heading. If you are creating a new file, you can copy and paste the heading of other post and modify the elements of the headings like **title:**.
 * Then write your post following the markdown language. Here you have a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to help you when you write in this language.
-* When you are happy with your post click on the *commit changes* buttom.
+* When you are happy with your post click on the **commit changes** buttom.
 
 ### Upload our works in R
 
