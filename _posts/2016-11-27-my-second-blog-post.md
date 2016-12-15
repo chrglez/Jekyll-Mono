@@ -2,13 +2,13 @@
 layout: post
 title:  Creating a blog in Github
 date: "2016-12-15 13:23:15"
-published: true
 Author: Christian González-Martel
-tags: [example1, example2]
 ---
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
+
 ## Creating a blog using jekyll.
----
+-----
 
 As I told in the presentation post, when I started to use R I founded that in each project I did, I had problems developing it and I needed to search solutions to these problems. For this reason I decided to create a blog. To have a site to put all the problems I founded and the steps I followed to solve them. So, I thought that it would be appropiated tell how my first expirience creating a blog was.
 
